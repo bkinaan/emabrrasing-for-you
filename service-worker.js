@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/bkinaan/emabrrasing-for-you/precache-manifest.a8fec350ef46c52dc7db7d86aefc40ff.js"
+  "/bkinaan/emabrrasing-for-you/precache-manifest.5135f5c7e9c4e164e50434958fa84920.js"
 );
 
 workbox.clientsClaim();
