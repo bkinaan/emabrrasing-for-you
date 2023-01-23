@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/bkinaan/emabrrasing-for-you/precache-manifest.5135f5c7e9c4e164e50434958fa84920.js"
+  "/bkinaan/emabrrassing-for-you/precache-manifest.5fd63dd674117688e84c4abf0264013c.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/bkinaan/emabrrasing-for-you/index.html", {
+workbox.routing.registerNavigationRoute("/bkinaan/emabrrassing-for-you/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
