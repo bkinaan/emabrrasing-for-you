@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/bkinaan/emabrrassing-for-you/precache-manifest.5fd63dd674117688e84c4abf0264013c.js"
+  "/bkinaan/emabarrassing-for-you/precache-manifest.362f19240e97070aac8333760eb51073.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/bkinaan/emabrrassing-for-you/index.html", {
+workbox.routing.registerNavigationRoute("/bkinaan/emabarrassing-for-you/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
