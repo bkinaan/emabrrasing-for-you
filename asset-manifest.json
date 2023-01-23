@@ -1,15 +1,15 @@
 {
-  "main.css": "/bkinaan/emabarrassing-for-you/static/css/main.ee73b1fc.chunk.css",
-  "main.js": "/bkinaan/emabarrassing-for-you/static/js/main.4f47ad49.chunk.js",
-  "main.js.map": "/bkinaan/emabarrassing-for-you/static/js/main.4f47ad49.chunk.js.map",
-  "static/js/1.3e3c3eb5.chunk.js": "/bkinaan/emabarrassing-for-you/static/js/1.3e3c3eb5.chunk.js",
-  "static/js/1.3e3c3eb5.chunk.js.map": "/bkinaan/emabarrassing-for-you/static/js/1.3e3c3eb5.chunk.js.map",
-  "static/js/2.ff813772.chunk.js": "/bkinaan/emabarrassing-for-you/static/js/2.ff813772.chunk.js",
-  "static/js/2.ff813772.chunk.js.map": "/bkinaan/emabarrassing-for-you/static/js/2.ff813772.chunk.js.map",
-  "runtime~main.js": "/bkinaan/emabarrassing-for-you/static/js/runtime~main.c1b5a207.js",
-  "runtime~main.js.map": "/bkinaan/emabarrassing-for-you/static/js/runtime~main.c1b5a207.js.map",
-  "static/css/main.ee73b1fc.chunk.css.map": "/bkinaan/emabarrassing-for-you/static/css/main.ee73b1fc.chunk.css.map",
-  "index.html": "/bkinaan/emabarrassing-for-you/index.html",
-  "precache-manifest.362f19240e97070aac8333760eb51073.js": "/bkinaan/emabarrassing-for-you/precache-manifest.362f19240e97070aac8333760eb51073.js",
-  "service-worker.js": "/bkinaan/emabarrassing-for-you/service-worker.js"
+  "main.css": "./static/css/main.ee73b1fc.chunk.css",
+  "main.js": "./static/js/main.4f47ad49.chunk.js",
+  "main.js.map": "./static/js/main.4f47ad49.chunk.js.map",
+  "static/js/1.3e3c3eb5.chunk.js": "./static/js/1.3e3c3eb5.chunk.js",
+  "static/js/1.3e3c3eb5.chunk.js.map": "./static/js/1.3e3c3eb5.chunk.js.map",
+  "static/js/2.ff813772.chunk.js": "./static/js/2.ff813772.chunk.js",
+  "static/js/2.ff813772.chunk.js.map": "./static/js/2.ff813772.chunk.js.map",
+  "runtime~main.js": "./static/js/runtime~main.b9840848.js",
+  "runtime~main.js.map": "./static/js/runtime~main.b9840848.js.map",
+  "static/css/main.ee73b1fc.chunk.css.map": "./static/css/main.ee73b1fc.chunk.css.map",
+  "index.html": "./index.html",
+  "precache-manifest.40f2bab87b45c7790dfdade6ef1da576.js": "./precache-manifest.40f2bab87b45c7790dfdade6ef1da576.js",
+  "service-worker.js": "./service-worker.js"
 }
